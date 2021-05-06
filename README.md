@@ -3,7 +3,10 @@
 An open source index repository for No-DRM patches for videos games.
 
 ## Index
-
+1. [Upcoming Games with Denuvo DRM](https://github.com/CrackSnoop/cracksnoop#upcoming-denuvo-drm-games)
+2. [Uncracked Games](https://github.com/CrackSnoop/cracksnoop#uncracked)
+3. [Cracked Games](https://github.com/CrackSnoop/cracksnoop#cracked-bypassed)
+4. [Uncracked Online Only Games](https://github.com/CrackSnoop/cracksnoop#uncracked-online-only-games)
 
 ## Upcoming Denuvo DRM Games
 
