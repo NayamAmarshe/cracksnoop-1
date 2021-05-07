@@ -13,7 +13,6 @@ An open source index repository for No-DRM patches for videos games.
 
 Name|Release
 --|--|
-Resident Evil 8: Village|2021-05-07
 Mass Effect Legendary Edition|2021-05-15
 Shin Megami Tensei III: Nocturne HD Remaster|2021-05-25
 Back 4 Blood A|2021-06-22 
@@ -71,6 +70,7 @@ The Bus|2021-03-25|[Steam](https://store.steampowered.com/app/491540)
 Balan Wonderworld|2021-03-26|[Steam](https://store.steampowered.com/app/1341050)
 Evil Genius 2: World Domination|2021-03-30|[Steam](https://store.steampowered.com/app/700600)
 NieR Replicant ver.1.22474487139...|2021-04-23|[Steam](https://store.steampowered.com/app/1113560)
+Resident Evil 8: Village|2021-05-07|[Steam](https://store.steampowered.com/app/1196590)
 
 ## Cracked/Bypassed
 
