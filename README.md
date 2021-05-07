@@ -243,7 +243,7 @@ Starcraft 2: Legacy of the Void  |2015-11-10|2015-11-23|RELOADED
 Call of Duty: Modern Warfare 2 Remastered  |2020-04-30|2020-05-03|Extern/Razor1911 
 Blizzard Arcade Collection  |2021-02-20|2020-02-22|CODEX 
 Crash Bandicoot 4: It's About Time  |2021-03-26|2021-03-27|EMPRESS/CODEX 
-Starcraft Remastered|2017-08-14| |ZLOEmu
+Starcraft Remastered|2017-08-14| |ZLOEmu|[Battlenet](https://us.shop.battle.net/en-us/product/starcraft-remastered)
 
 ## Uncracked Online Only Games
 
