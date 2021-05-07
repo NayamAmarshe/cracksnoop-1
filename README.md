@@ -71,8 +71,6 @@ The Bus|2021-03-25|[Steam](https://store.steampowered.com/app/491540)
 Balan Wonderworld|2021-03-26|[Steam](https://store.steampowered.com/app/1341050)
 Evil Genius 2: World Domination|2021-03-30|[Steam](https://store.steampowered.com/app/700600)
 NieR Replicant ver.1.22474487139...|2021-04-23|[Steam](https://store.steampowered.com/app/1113560)
-Starcraft Remastered|2017-08-14
-Warcraft III Reforged|2020-01-28
 
 ## Cracked/Bypassed
 
@@ -245,6 +243,7 @@ Starcraft 2: Legacy of the Void  |2015-11-10|2015-11-23|RELOADED
 Call of Duty: Modern Warfare 2 Remastered  |2020-04-30|2020-05-03|Extern/Razor1911 
 Blizzard Arcade Collection  |2021-02-20|2020-02-22|CODEX 
 Crash Bandicoot 4: It's About Time  |2021-03-26|2021-03-27|EMPRESS/CODEX 
+Starcraft Remastered|2017-08-14| |ZLOEmu
 
 ## Uncracked Online Only Games
 
@@ -263,3 +262,4 @@ Overwatch|2016-05-24
 Call of Duty: Black Ops IV|2018-10-12
 Call of Duty: Modern Warfare|2019-10-25
 Call of Duty: Black Ops Cold War|2020-11-13
+Warcraft III Reforged|2020-01-28
