@@ -9,7 +9,7 @@ An open source index repository for No-DRM patches for videos games.
 3. [Cracked Games](#crackedbypassed)
 4. [Uncracked Online Only Games](#uncracked-online-only-games)
 
-## Upcoming Denuvo DRM Games
+## Upcoming DRM Games
 
 Name|Release
 --|--|
