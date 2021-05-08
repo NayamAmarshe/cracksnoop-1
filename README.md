@@ -1,7 +1,7 @@
 # CrackSnoop
 ![CrackSnoop Logo](https://user-images.githubusercontent.com/25067102/117254540-27a5b300-ae66-11eb-8f60-2690a0710928.png)
-An open source index repository for No-DRM patches for videos games.  This repository acts as a mirror to provide already available and accessible public information.
-#### This project is in need of contributors. If you have any suggestions or changes, please feel free to make changes to this file and make a pull request or add a ticket in Issues tab.
+An open source index repository for No-DRM patches for videos games.
+#### This project is in need of contributors. If you have any suggestions or changes, please feel free to make changes to this file and make a pull request or add a ticket in Issues tab. This repository currently acts as a mirror to provide already available and accessible public information.
 
 ## Index
 1. [Upcoming Games](#upcoming-denuvo-drm-games)
