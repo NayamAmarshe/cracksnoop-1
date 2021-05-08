@@ -4,7 +4,7 @@ An open source index repository for No-DRM patches for videos games.
 #### This project is in need of contributors. If you have any suggestions or changes, please feel free to make changes to this file and make a pull request or add a ticket in Issues tab. This repository currently acts as a mirror to provide already available and accessible public information.
 
 ## Index
-1. [Upcoming Games](#upcoming-denuvo-drm-games)
+1. [Upcoming Games](#upcoming-drm-games)
 2. [Uncracked Games](#uncracked)
 3. [Cracked Games](#crackedbypassed)
 4. [Uncracked Online Only Games](#uncracked-online-only-games)
