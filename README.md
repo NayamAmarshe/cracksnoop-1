@@ -76,6 +76,7 @@ Resident Evil 8: Village|2021-05-07|[Steam](https://store.steampowered.com/app/1
 
 Name|Released|Cracked|By|Store link|
 --|--|--|--|--|
+Days Gone |2021-05-18|2021-05-18|FLT|[Steam](https://store.steampowered.com/app/1259420/Days_Gone)
 Ace Combat 7: Skies Unknown |2019-02-01|2019-02-15|CPY|[Steam](https://steampowered.com/app/502500) 
 Far Cry New Dawn[](#uplay)|2019-02-15|2019-02-22|CODEX|[Steam](https://steampowered.com/app/939960) 
 Anno 1800[](#uplay) |2019-04-16|2021-01-05|EMPRESS|[Ubisoft  Store](https://store.ubi.com/us/game/?lang=en_US&pid=5b647010ef3aa548048c5958&dwvar_5b647010ef3aa548048c5958)
